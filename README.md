@@ -22,11 +22,12 @@
 ### Portfolio
 
 - Este é o portifolio onde voce pode ver cada projeto e um pequeno resumo sobre ele.
+
 ![](https://i.imgur.com/1pDIzMz.png)
 
 ![](https://i.imgur.com/jHweGIb.png)
 
-[](https://i.imgur.com/uTpctrq.png)
+![](https://i.imgur.com/uTpctrq.png)
 
 ![](https://i.imgur.com/BsAWB7m.png)
 ![](https://i.imgur.com/W9s2afk.png)
@@ -37,7 +38,8 @@
 
 ### Portfolio - 01 - Manage
 
--navegando por cada projeto vc pode ver como cada projeto funciona 
+- Navegando por cada projeto vc pode ver como cada projeto funciona.
+
 ![](https://i.imgur.com/JYY2lNG.png)
 
 ![](https://i.imgur.com/uEgRim6.png)
