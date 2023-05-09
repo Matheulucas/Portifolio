@@ -1,0 +1,156 @@
+@import url(../../css/global.css);
+
+.main {
+    width: 1440px;
+    margin-top: 58px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.box-side{
+    position: relative;
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box-side img{
+    width: 1100px ;
+    height: 600px;
+}   
+.quadrado{
+    position: absolute;
+    width: 445px;
+    height: 357px;
+    background-color:  #FAFAFA;
+    display: flex;
+    left: 147px;
+    flex-direction: column;
+    top: 292px;
+}
+
+.text p {
+    margin-top: 56px;
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    margin-left: 27px;
+    color: #33323D;
+}
+.text{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+ 
+}
+.botao-sobre{
+    position: relative;
+    width: 200px;
+    height: 48px;
+    display: flex;
+    flex-direction: row;
+    background: #203a4c;
+    color: #FAFAFA;
+    
+}
+
+.botao-sobre p{
+    width: 152px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: center;
+    align-self: center;
+    letter-spacing: 2px;
+    line-height: 14px;
+    text-transform: uppercase;
+    
+}
+.img-sobre{
+    width: 48px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.1);
+    left: 0%;
+    z-index: 0;
+}
+.img-sobre img{
+    width: 16px;
+    height: 12px;
+    
+}
+.botao-sobre:hover {
+    background-color: #5fb4a2;
+}
+
+.about{
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 149px;
+    justify-content: center;
+    padding-left: 165px;
+    padding-right:165px ;
+}
+.about img{
+    width: 540px;
+    height: 600px;
+}
+.text-about {
+    margin-left: 140px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid rgba(51, 50, 61, 0.12);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.12);
+
+}
+.text-about h1{
+    height: 42px;
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    margin-bottom: 28px;
+    color: #33323D;
+    margin-top: 51px;
+}
+.text-about p{
+    height: 360px;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #33323D;
+    margin-bottom: 23px;
+}
+
+.botao-portifolio{
+    width: 162px;
+    height: 48px;
+    border: 1px solid #33323D;
+    color: #33323D;
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 12px;
+    
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.botao-portifolio:hover{
+    background-color: #33323d;
+    color: #FAFAFA;
+}

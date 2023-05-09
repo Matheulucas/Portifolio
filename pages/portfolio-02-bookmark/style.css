@@ -1,0 +1,174 @@
+@import url(../../css/global.css);
+
+.hero{
+    width: 1440px;
+    padding-left: 165px ;
+    height: 500px;
+    margin-top: 94px;
+}
+.hero img{
+    width: 1100px;
+    height: 100%;
+}
+.hero-2{
+    width: 1440px;
+    padding-left: 165px;
+    display: flex;
+    margin-top: 115px;
+}
+.bookmark{
+    width: 350px;
+    height: 498px;
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid rgba(51, 50, 61, 0.12);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.12);
+}
+.text-book h1{
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 29px;
+    margin-top: 48px;
+    color: #33323D;
+}
+.text-book p{
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 37px;
+    color: #33323D;
+}
+.text-book-2 p{
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #5FB4A2;
+    margin-top: 16px;
+}
+.botao-visitar{
+    width: 178px;
+    height: 48px;
+    border: 1px solid #33323D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #33323D;
+    margin-top: 32px;
+}
+.botao-visitar p{
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.botao-visitar:hover{
+    color: #fafafa;
+    background-color: #33323D;
+    
+}
+.projeto{
+    width: 635px;
+    display: flex;
+    flex-direction: column;
+    color: #33323D;
+    margin-left: 125px;
+}
+.projeto h1{
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    margin-bottom: 28px;
+}
+.projeto p{
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+}
+.projeto p span{
+    text-decoration: underline;
+}
+.previews{
+    margin-top: 40px;
+}
+.previews img{
+    width: 635px;
+    height: 400px;
+    margin-bottom: 32px;
+}
+.navegacao{
+    width: 1440px;
+    height: 132px;
+    padding-left: 165px;
+    padding-right: 165px;
+}
+.estrutura {
+    border-top: 1px solid rgba(51, 50, 61, 0.12);
+    border-bottom: 1px solid rgba(51, 50, 61, 0.12);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.anterior{
+    width: 162px;
+    height: 66px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.text-ant{
+    display: flex;
+    flex-direction: column;
+     margin-left: 32px;
+     color: #33323D;
+}
+.text-ant h1{
+    
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+}
+.text-ant p{
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    opacity: 0.5;
+}
+.proximo{
+    width: 162px;
+    height: 66px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.text-prox{
+    display: flex;
+    flex-direction: column;
+    margin-right: 32px;
+    color: #33323D;
+}
+.text-prox h1{
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+}
+.text-prox p{
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    opacity: 0.5;
+}

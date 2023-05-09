@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:wght@400;700&family=Public+Sans:wght@400;700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container{
+    width: 1440px;
+    max-width: 100%;
+    padding: 60px 0 0 0;
+    
+}
+.header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+
+}
+.img-direita{
+    width: 60px;
+    height: 32px;
+    margin-left: 122px;
+
+}
+.navigation{
+    margin-right: 207px;
+    
+}
+
+.navigation-itens{
+    color: #33323D; 
+    margin-left: 43px;
+    font-size: 12px;
+    font-family: 'Public Sans';
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.footer{
+    margin-top: 150px;
+    width: 100%;
+    background-color: #33323D;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 165px 0 165px;
+
+}
+.img-arrow-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    width: 369px;
+    height: 32px;
+    align-items: center;
+}
+.navigation-footer{
+    display: flex;
+    justify-content: space-between;
+    color: #33323D;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Public Sans' sans-serif;
+    font-weight: 400;
+}
+.navigation-itens-footer{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Public Sans';
+    font-weight: 400;
+    margin-left: 42px;
+}
+.navigation-footer-img{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.footer-git{
+    margin: 15px;
+}
+.footer-linkedin{
+    margin:15px;
+}
+.navigation-footer a:hover{
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.contato{
+    margin-top: 150px ;
+    padding: 0 165px 0 165px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.contato a{
+    text-decoration: none;
+    
+}
+.text-contato{
+    
+    height: 84px;    
+    font-family: 'Ibarra Real Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 42px;
+    color: #33323D;
+    width: 367px ;
+}
+.botao-contato{
+width: 168px;
+height: 48px;
+border:1px solid #33323D;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #33323D;
+}
+.botao-contato p{
+     
+    font-family: 'Public Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+    
+}
+.botao-contato:hover{
+    color:#FAFAFA;
+    background-color: #33323d;
+}
+.botaoLixeira{
+    background-color: #FAFAFA;
+
+}
