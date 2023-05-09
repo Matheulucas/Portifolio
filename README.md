@@ -88,7 +88,4 @@
 
 
 
-
-**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
-
 ###### tags: `front-end` `módulo 2` `HTML` `CSS` `desafio`
