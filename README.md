@@ -1,13 +1,13 @@
 
 
-# Desafio | Front-end - Módulo 2
+# Portifolio CSS e HTML Desafio da Cubos
 
-Este é um portifolio feito por min para o desafio do curso da cubos academy no modulo 2 HTML e CSS.
+- Este é um portifolio feito por min para o desafio do curso da cubos academy no modulo 2 HTML e CSS.
 
 
 ### Home
 
--Esta é a pagina principal onde voce pode navegar pelos projetos e saber um pouco sobre o dono do portifolio.
+- Esta é a pagina principal onde voce pode navegar pelos projetos e saber um pouco sobre o dono do portifolio.
 
 ![](https://i.imgur.com/Vwj9U0y.png)
 
@@ -21,7 +21,7 @@ Este é um portifolio feito por min para o desafio do curso da cubos academy no 
 
 ### Portfolio
 
--Este é o portifolio onde voce pode ver cada projeto e um pequeno resumo sobre ele.
+- Este é o portifolio onde voce pode ver cada projeto e um pequeno resumo sobre ele.
 ![](https://i.imgur.com/1pDIzMz.png)
 
 ![](https://i.imgur.com/jHweGIb.png)
